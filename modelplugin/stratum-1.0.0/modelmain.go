@@ -18,7 +18,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/onosproject/config-models/modelplugin/stratum-1.0.0/stratum_1_0_0"
+	"github.com/li9270/config-models/modelplugin/stratum-1.0.0/stratum_1_0_0"
 	"github.com/openconfig/gnmi/proto/gnmi"
 	"github.com/openconfig/goyang/pkg/yang"
 	_ "github.com/openconfig/ygot/genutil"
@@ -39,7 +39,7 @@ var modelData = []*gnmi.ModelData{
 	{Name: "openconfig-interfaces-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-lacp-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-platform-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
-	{Name: "openconfig-platform-transceiver-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
+	{Name: "openconfig-platform-transceiver-stratum-just-test", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-qos-interfaces-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-interfaces", Organization: "OpenConfig working group", Version: "2.4.1"},
 	{Name: "openconfig-if-ip", Organization: "OpenConfig working group", Version: "3.0.0"},
