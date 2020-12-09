@@ -39,7 +39,7 @@ var modelData = []*gnmi.ModelData{
 	{Name: "openconfig-interfaces-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-lacp-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-platform-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
-	{Name: "openconfig-platform-transceiver-stratum-123456", Organization: "Open Networking Foundation", Version: "0.1.0"},
+	{Name: "openconfig-platform-transceiver-stratum-1234567890", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-qos-interfaces-stratum", Organization: "Open Networking Foundation", Version: "0.1.0"},
 	{Name: "openconfig-interfaces", Organization: "OpenConfig working group", Version: "2.4.1"},
 	{Name: "openconfig-if-ip", Organization: "OpenConfig working group", Version: "3.0.0"},
