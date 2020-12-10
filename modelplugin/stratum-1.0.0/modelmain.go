@@ -18,7 +18,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/onosproject/config-models/modelplugin/stratum-1.0.0/stratum_1_0_0"
+	"github.com/li9270/config-models/modelplugin/stratum-1.0.0/stratum_1_0_0"
 	"github.com/openconfig/gnmi/proto/gnmi"
 	"github.com/openconfig/goyang/pkg/yang"
 	_ "github.com/openconfig/ygot/genutil"
